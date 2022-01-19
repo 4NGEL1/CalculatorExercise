@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{7BAE0358-451B-49C8-A034-3AF7EA52AD66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Axity.Calculator.Test/Axity.Calculator.Test/Services/CalculatorServiceTest.cs">
+    <Files>
+      <File FileName="Axity.Calculator.Resources/Db/Users.cs" Line="25" Column="54" />
+      <File FileName="Axity.Calculator.Dtos/Calculator/CalculatorDto.cs" Line="14" Column="24" />
+      <File FileName="Axity.Calculator.DataAccess/DAO/Calculator/CalculatorDao.cs" Line="29" Column="10" />
+      <File FileName="Axity.Calculator.Test/Axity.Calculator.Test/Services/CalculatorServiceTest.cs" Line="57" Column="35" />
+      <File FileName="Axity.Calculator.Test/Axity.Calculator.Test/BaseTest.cs" Line="32" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Axity.Calculator.Microservice" expanded="True">
+            <Node name="Commons" expanded="True">
+              <Node name="Axity.Calculator.Resources" expanded="True">
+                <Node name="Db" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Axity.Calculator.DataAccess" expanded="True">
+              <Node name="DAO" expanded="True">
+                <Node name="Calculator" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Axity.Calculator.Dtos" expanded="True">
+              <Node name="Calculator" expanded="True" />
+            </Node>
+            <Node name="Axity.Calculator.Test" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="CalculatorServiceTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Axity.Calculator.Microservice" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Axity.Calculator.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.deps.json
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.csproj.AssemblyReference.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.AssemblyInfoInputs.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.AssemblyInfo.cs
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.csproj.CoreCompileInputs.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.csproj.CopyComplete
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb

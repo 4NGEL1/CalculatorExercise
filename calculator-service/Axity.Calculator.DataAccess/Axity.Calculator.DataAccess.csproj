@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Axity.Calculator.Repository\Axity.Calculator.Entities.csproj" />
+    <ProjectReference Include="..\Axity.Calculator.Resources\Axity.Calculator.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

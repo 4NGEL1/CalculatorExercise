@@ -1,0 +1,15 @@
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.deps.json
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.pdb
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.csproj.AssemblyReference.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.AssemblyInfoInputs.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.AssemblyInfo.cs
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.csproj.CoreCompileInputs.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.csproj.CopyComplete
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.pdb

@@ -1,0 +1,10 @@
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.deps.json
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.pdb
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.csproj.AssemblyReference.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.AssemblyInfoInputs.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.AssemblyInfo.cs
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.csproj.CoreCompileInputs.cache
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.dll
+C:\Repositorios\CursosAxity\CursoMicroservicioDotNet\EjercicioCalculadora\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.pdb

@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Axity.Calculator.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Axity.Calculator.Api.Controllers.CalculatorController">
+            <summary>
+            Class Calculator Controller.
+            </summary>
+        </member>
+        <member name="M:Axity.Calculator.Api.Controllers.CalculatorController.#ctor(Axity.Calculator.Facade.Calculator.ICalculatorFacade)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Axity.Calculator.Api.Controllers.CalculatorController"/> class.
+            </summary>
+            <param name="logicFacade">Calculator Facade.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Controllers.CalculatorController.Get">
+            <summary>
+            Method to get all Calculator.
+            </summary>
+            <returns>List of Calculator.</returns>
+        </member>
+        <member name="M:Axity.Calculator.Api.Controllers.CalculatorController.Get(System.Int32)">
+            <summary>
+            Method to get Calculator By Id.
+            </summary>
+            <param name="id">Calculator Id.</param>
+            <returns>Calculator Model.</returns>
+        </member>
+        <member name="M:Axity.Calculator.Api.Controllers.CalculatorController.Post(Axity.Calculator.Dtos.Calculator.CalculatorDto)">
+            <summary>
+            Method to Add Calculator.
+            </summary>
+            <param name="dataToStore">Calculator Model.</param>
+            <returns>Success or exception.</returns>
+        </member>
+        <member name="M:Axity.Calculator.Api.Controllers.CalculatorController.Ping">
+            <summary>
+            Method Ping.
+            </summary>
+            <returns>Pong.</returns>
+        </member>
+        <member name="T:Axity.Calculator.Api.Filters.CustomActionFilterAttribute">
+            <summary>
+            Class Action Filter.
+            </summary>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomActionFilterAttribute.#ctor(Serilog.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Axity.Calculator.Api.Filters.CustomActionFilterAttribute"/> class.
+            </summary>
+            <param name="logger">Object Logger.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomActionFilterAttribute.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomActionFilterAttribute.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomActionFilterAttribute.OnResultExecuting(Microsoft.AspNetCore.Mvc.Filters.ResultExecutingContext)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomActionFilterAttribute.OnResultExecuted(Microsoft.AspNetCore.Mvc.Filters.ResultExecutedContext)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Axity.Calculator.Api.Filters.CustomExceptionFilterAttribute">
+            <summary>
+            Class Exception Filter.
+            </summary>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomExceptionFilterAttribute.#ctor(Serilog.ILogger)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Axity.Calculator.Api.Filters.CustomExceptionFilterAttribute"/> class.
+            </summary>
+            <param name="logger">Object Logger.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.CustomExceptionFilterAttribute.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Axity.Calculator.Api.Filters.ResponseMiddleware">
+            <summary>
+            Class Response Middlewere.
+            </summary>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.ResponseMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Axity.Calculator.Api.Filters.ResponseMiddleware"/> class.
+            </summary>
+            <param name="next">Request Delegate.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Filters.ResponseMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Method to generate histogram response time for request.
+            </summary>
+            <param name="context">Http Context.</param>
+            <returns>Task.</returns>
+        </member>
+        <member name="T:Axity.Calculator.Api.Program">
+            <summary>
+            Class Program.
+            </summary>
+        </member>
+        <member name="M:Axity.Calculator.Api.Program.Main(System.String[])">
+            <summary>
+            Main Program.
+            </summary>
+            <param name="args">List of arguments.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            Method to execute app.
+            </summary>
+            <param name="args">List of arguments.</param>
+            <returns>Web Host Builder.</returns>
+        </member>
+        <member name="T:Axity.Calculator.Api.Startup">
+            <summary>
+            Class Startup.
+            </summary>
+        </member>
+        <member name="M:Axity.Calculator.Api.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Axity.Calculator.Api.Startup"/> class.
+            </summary>
+            <param name="configuration">App Configuration.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Startup.Finalize">
+            <summary>
+            Finalizes an instance of the <see cref="T:Axity.Calculator.Api.Startup"/> class.
+            </summary>
+        </member>
+        <member name="P:Axity.Calculator.Api.Startup.Configuration">
+            <summary>
+            Gets configuration.
+            </summary>
+            <value>
+            App Settings Configuration.
+            </value>
+        </member>
+        <member name="M:Axity.Calculator.Api.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Method to configure services.
+            </summary>
+            <param name="services">Service Collection.</param>
+        </member>
+        <member name="M:Axity.Calculator.Api.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app">Application Builder.</param>
+            <param name="env">Hosting Environment.</param>
+        </member>
+    </members>
+</doc>

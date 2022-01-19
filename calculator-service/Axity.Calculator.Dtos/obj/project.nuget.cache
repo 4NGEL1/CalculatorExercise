@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GfHFdWwfcKZ+JOmq8UCowS6ixR+mP5YaQuxXBwk38KZuqchdCsVynEYwBg3CXlGCivztnZ+ENgWgJy+xoKaKjg==",
+  "success": true,
+  "projectFilePath": "C:\\Repositorios\\CursosAxity\\CursoMicroservicioDotNet\\EjercicioCalculadora\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
